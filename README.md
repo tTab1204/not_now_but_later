@@ -4,7 +4,7 @@
 - [ ] [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361)
 
 ## Event
-- [ ] [터치와 클릭, 우린 깐부잖아](https://ui.toast.com/weekly-pick/ko_20220106)
+- [x] [터치와 클릭, 우린 깐부잖아](https://ui.toast.com/weekly-pick/ko_20220106)
 
 
 ## CSS
