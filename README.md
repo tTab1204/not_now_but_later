@@ -14,6 +14,9 @@
 - [ ] [How to Load CSS Asynchronously? Eliminate Render-blocker CSS with Async CSS Feature](https://www.holisticseo.digital/pagespeed/async-css/)
 - [ ] [How To Optimize CSS for Peak Site Performance](https://kinsta.com/blog/optimize-css/)
 
+## Javascript
+- [ ] [127 Useful JavaScript Snippets You Can Understand in 30 Seconds](https://morioh.com/p/a76bc7d72226?f=5c224490c513a556c9042463&fbclid=IwAR0JuBSgDxSmaoNhrEnKS42cw2TrRUbTSVXbDueOhwmh-Q7z01sSY6v8njU)
+
 ## Webpack
 - [ ] [(Webpack) 웹팩5로 청크 관리 및 코드 스플리팅 하기](https://www.zerocho.com/category/Webpack/post/58ad4c9d1136440018ba44e7)
 - [x] [프론트엔드 개발환경의 이해: 웹팩(기본)](https://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html)
