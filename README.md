@@ -23,4 +23,4 @@
 - [ ] [프론트엔드 개발환경의 이해: NPM](https://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
 
 ## 재밌어 보이는 것들
-- [ ] [당근런치를 만들어봤어요](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%9F%B0%EC%B9%98%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%A4%EC%96%B4%EC%9A%94-18c368552da6)
+- [x] [당근런치를 만들어봤어요](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%9F%B0%EC%B9%98%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%A4%EC%96%B4%EC%9A%94-18c368552da6)
