@@ -13,6 +13,7 @@
 ## CSS
 - [ ] [How to Load CSS Asynchronously? Eliminate Render-blocker CSS with Async CSS Feature](https://www.holisticseo.digital/pagespeed/async-css/)
 - [ ] [How To Optimize CSS for Peak Site Performance](https://kinsta.com/blog/optimize-css/)
+- [ ] [touch-action](https://developer.mozilla.org/en-US/docs/Web/CSS/touch-action)
 
 ## Javascript
 - [ ] [127 Useful JavaScript Snippets You Can Understand in 30 Seconds](https://morioh.com/p/a76bc7d72226?f=5c224490c513a556c9042463&fbclid=IwAR0JuBSgDxSmaoNhrEnKS42cw2TrRUbTSVXbDueOhwmh-Q7z01sSY6v8njU)
