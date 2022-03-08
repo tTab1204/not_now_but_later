@@ -17,6 +17,7 @@
 
 ## Javascript
 - [ ] [127 Useful JavaScript Snippets You Can Understand in 30 Seconds](https://morioh.com/p/a76bc7d72226?f=5c224490c513a556c9042463&fbclid=IwAR0JuBSgDxSmaoNhrEnKS42cw2TrRUbTSVXbDueOhwmh-Q7z01sSY6v8njU)
+- [ ] [불변 객체와 immer](https://ui.toast.com/weekly-pick/ko_20220217)
 
 ## Webpack
 - [ ] [(Webpack) 웹팩5로 청크 관리 및 코드 스플리팅 하기](https://www.zerocho.com/category/Webpack/post/58ad4c9d1136440018ba44e7)
