@@ -27,6 +27,10 @@
 ## React
 - [ ] [React.memo() 현명하게 사용하기](https://ui.toast.com/weekly-pick/ko_20190731)
 
+## Vue
+- [ ] [deep-dive-into-reactivity-in-depth](https://github.com/pistis/vuejs-deep-dive)
+- [x] [Build a reactivity system](https://www.vuemastery.com/courses/advanced-components/build-a-reactivity-system/)
+
 ## 기타
 - [ ] [프론트엔드 개발환경의 이해: NPM](https://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
 
