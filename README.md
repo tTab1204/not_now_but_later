@@ -33,6 +33,7 @@
 - [x] [Build a reactivity system](https://www.vuemastery.com/courses/advanced-components/build-a-reactivity-system/)
 - [x] [deep-dive-into-async-update-queue](https://github.com/pistis/vuejs-deep-dive/blob/master/v2.5.21/deep-dive-into-async-update-queue.md)
 - [ ] [deep-dive-into-template-compilation](https://github.com/pistis/vuejs-deep-dive/blob/master/v2.5.21/deep-dive-into-template-compilation.md)
+- [ ] [Evan You On Proxies](https://www.vuemastery.com/courses/advanced-components/evan-you-on-proxies)
 
 ## 기타
 - [ ] [프론트엔드 개발환경의 이해: NPM](https://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
