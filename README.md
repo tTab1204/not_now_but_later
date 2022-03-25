@@ -6,6 +6,7 @@
 - [ ] [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
 - [ ] [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 2. 렌더링](https://medium.com/myrealtrip-product/fe-website-perf-part2-e0c7462ef822)
 - [x] [자바스크립트와 이벤트 루프](https://meetup.toast.com/posts/89)
+- [ ] [2022년 웹 개발에서 고려해야 할 환경](https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/)
 
 ## Event
 - [x] [터치와 클릭, 우린 깐부잖아](https://ui.toast.com/weekly-pick/ko_20220106)
