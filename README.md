@@ -35,7 +35,7 @@
 - [x] [deep-dive-into-async-update-queue](https://github.com/pistis/vuejs-deep-dive/blob/master/v2.5.21/deep-dive-into-async-update-queue.md)
 - [ ] [deep-dive-into-template-compilation](https://github.com/pistis/vuejs-deep-dive/blob/master/v2.5.21/deep-dive-into-template-compilation.md)
 - [ ] [Evan You On Proxies](https://www.vuemastery.com/courses/advanced-components/evan-you-on-proxies)
-- [x] [Vue에서 중첩 데이터를 ](https://ui.toast.com/weekly-pick/ko_20190307)
+- [x] [Vue에서 중첩 데이터를 감시하는 법](https://ui.toast.com/weekly-pick/ko_20190307)
 
 ## 기타
 - [ ] [프론트엔드 개발환경의 이해: NPM](https://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
