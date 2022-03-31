@@ -38,7 +38,7 @@
 - [x] [Vue에서 중첩 데이터를 감시하는 법](https://ui.toast.com/weekly-pick/ko_20190307)
 
 ## i18n
-- [ ] [How to achieve manageable i18n in your Angular app](https://medium.com/whozapp/how-to-achieve-manageable-i18n-in-your-angular-app-2f13f2637260)
+- [x] [How to achieve manageable i18n in your Angular app](https://medium.com/whozapp/how-to-achieve-manageable-i18n-in-your-angular-app-2f13f2637260)
 
 ## 기타
 - [ ] [프론트엔드 개발환경의 이해: NPM](https://jeonghwan-kim.github.io/series/2019/12/09/frontend-dev-env-npm.html)
