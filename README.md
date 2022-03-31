@@ -28,6 +28,7 @@
 
 ## React
 - [ ] [React.memo() 현명하게 사용하기](https://ui.toast.com/weekly-pick/ko_20190731)
+- [x] [React - setState 이해하기](https://taenami.tistory.com/49)
 
 ## Vue
 - [ ] [deep-dive-into-reactivity-in-depth](https://github.com/pistis/vuejs-deep-dive)
