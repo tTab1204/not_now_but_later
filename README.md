@@ -7,6 +7,7 @@
 - [ ] [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 2. 렌더링](https://medium.com/myrealtrip-product/fe-website-perf-part2-e0c7462ef822)
 - [x] [자바스크립트와 이벤트 루프](https://meetup.toast.com/posts/89)
 - [x] [2022년 웹 개발에서 고려해야 할 환경](https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/)
+- [ ] [원활한 콘텐츠 작성을 위한 에디터 개발기](https://www.bucketplace.co.kr/post/2020-09-18-%EC%9B%90%ED%99%9C%ED%95%9C-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%90%EB%94%94%ED%84%B0-%EA%B0%9C%EB%B0%9C%EA%B8%B0/)
 
 ## Event
 - [x] [터치와 클릭, 우린 깐부잖아](https://ui.toast.com/weekly-pick/ko_20220106)
@@ -29,6 +30,7 @@
 ## React
 - [ ] [React.memo() 현명하게 사용하기](https://ui.toast.com/weekly-pick/ko_20190731)
 - [x] [React - setState 이해하기](https://taenami.tistory.com/49)
+- [ ] 
 
 ## Vue
 - [ ] [deep-dive-into-reactivity-in-depth](https://github.com/pistis/vuejs-deep-dive)
