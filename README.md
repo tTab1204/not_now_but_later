@@ -9,6 +9,10 @@
 - [x] [2022년 웹 개발에서 고려해야 할 환경](https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/)
 - [ ] [원활한 콘텐츠 작성을 위한 에디터 개발기](https://www.bucketplace.co.kr/post/2020-09-18-%EC%9B%90%ED%99%9C%ED%95%9C-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%90%EB%94%94%ED%84%B0-%EA%B0%9C%EB%B0%9C%EA%B8%B0/)
 
+### Lazy Loading
+- [ ] [웹 성능 최적화를 위한 Image Lazy Loading 기법](https://helloinyong.tistory.com/297)
+- [ ] [크롬 네이티브 레이지 로딩](https://meetup.toast.com/posts/183)
+
 ## Event
 - [x] [터치와 클릭, 우린 깐부잖아](https://ui.toast.com/weekly-pick/ko_20220106)
 
