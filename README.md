@@ -44,6 +44,7 @@
 - [ ] [deep-dive-into-template-compilation](https://github.com/pistis/vuejs-deep-dive/blob/master/v2.5.21/deep-dive-into-template-compilation.md)
 - [ ] [Evan You On Proxies](https://www.vuemastery.com/courses/advanced-components/evan-you-on-proxies)
 - [x] [Vue에서 중첩 데이터를 감시하는 법](https://ui.toast.com/weekly-pick/ko_20190307)
+- [ ] [[Inside Vue] 1. Introduction - Vue Code 분석](https://beomy.github.io/tech/vuejs/introduction-vue-code-analysis/)
 
 ## i18n
 - [x] [How to achieve manageable i18n in your Angular app](https://medium.com/whozapp/how-to-achieve-manageable-i18n-in-your-angular-app-2f13f2637260)
