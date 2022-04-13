@@ -34,7 +34,7 @@
 ## React
 - [ ] [React.memo() 현명하게 사용하기](https://ui.toast.com/weekly-pick/ko_20190731)
 - [x] [React - setState 이해하기](https://taenami.tistory.com/49)
-- [ ] 
+- [ ] [[Reactjs] setState() 왜 비동기로 처리되는가?](https://dongmin-jang.medium.com/reactjs-setstate-%EC%99%9C-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%A1%9C-%EC%B2%98%EB%A6%AC%EB%90%98%EB%8A%94%EA%B0%80-8197d707ca6a)
 
 ## Vue
 - [ ] [deep-dive-into-reactivity-in-depth](https://github.com/pistis/vuejs-deep-dive)
