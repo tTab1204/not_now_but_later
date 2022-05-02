@@ -36,6 +36,8 @@
 - [x] [React - setState 이해하기](https://taenami.tistory.com/49)
 - [ ] [[Reactjs] setState() 왜 비동기로 처리되는가?](https://dongmin-jang.medium.com/reactjs-setstate-%EC%99%9C-%EB%B9%84%EB%8F%99%EA%B8%B0%EB%A1%9C-%EC%B2%98%EB%A6%AC%EB%90%98%EB%8A%94%EA%B0%80-8197d707ca6a)
 - [ ] [React 렌더링 이해 및 최적화 (With Hook)](https://medium.com/vingle-tech-blog/react-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f255d6569849)
+- [ ] [Elements of MVC in React](https://medium.com/swlh/elements-of-mvc-in-react-9382de427c09)
+- [ ] [Why did we build React?](https://reactjs.org/blog/2013/06/05/why-react.htmla)
 
 ## Vue
 - [ ] [deep-dive-into-reactivity-in-depth](https://github.com/pistis/vuejs-deep-dive)
